@@ -1,16 +1,13 @@
-## Hi there 👋
+# hey, i'm ClownCamo41 👋
 
-<!--
-**ClownCamo41/ClownCamo41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Crafting smooth cross-platform mobile apps with Flutter & React Native. Based in Japan.
 
-Here are some ideas to get you started:
+- 🚀 Interested in fluid animations
+- 🤔 Thinking about offline-first apps
+- 🌱 Learning Firebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ClownCamo41&hide_border=true&theme=radical" alt="Commit streak" />
+
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClownCamo41&layout=compact&langs_count=8&hide_border=true&theme=radical" alt="Top languages" />
+
+<img src="https://img.shields.io/badge/React%20Native-fb923c?style=for-the-badge&logoColor=white" alt="React Native" /> <img src="https://img.shields.io/badge/Dart-fb923c?style=for-the-badge&logoColor=white" alt="Dart" /> <img src="https://img.shields.io/badge/Firebase-fb923c?style=for-the-badge&logoColor=white" alt="Firebase" />
